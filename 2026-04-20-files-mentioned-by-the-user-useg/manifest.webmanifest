@@ -1,0 +1,10 @@
+{
+  "name": "Соёмбо сурах самбар",
+  "short_name": "Соёмбо",
+  "lang": "mn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1830",
+  "theme_color": "#0b1830",
+  "description": "Монгол бичиг сурахад зориулсан интерактив quiz, XP болон level системтэй сайт."
+}

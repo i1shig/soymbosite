@@ -1,0 +1,11 @@
+Энэ нь public static site болгоход бэлэн багц.
+
+1. `index.html`, `robots.txt`, `sitemap.xml`, `manifest.webmanifest` файлуудаа GitHub Pages, Netlify, эсвэл Vercel дээр байршуул.
+2. Энэ багц одоо `https://soymbo.mn/` домэйнд тааруулсан.
+3. Домэйнээ Google Search Console-д бүртгэж sitemap.xml-ээ submit хийнэ.
+4. Ингэсний дараа Google crawl хийж эхэлнэ.
+
+Анхаарах зүйл:
+- Google дээр "шууд" гарах баталгаа байдаггүй.
+- Эхлээд сайт тань public домэйн дээр нээгддэг байх ёстой.
+- Дараа нь Google index хийсний дараа хайлтаар гарч эхэлнэ.
